@@ -1,0 +1,11 @@
+MODULES_MANAGER_V2
+djangoTest.__init__|F:\workspace\python\djangoTest\djangoTest\__init__.py
+djangoTest.admin|F:\workspace\python\djangoTest\djangoTest\admin.py
+djangoTest.settings|F:\workspace\python\djangoTest\djangoTest\settings.py
+djangoTest.urls|F:\workspace\python\djangoTest\djangoTest\urls.py
+djangoTest.wsgi|F:\workspace\python\djangoTest\djangoTest\wsgi.py
+firstapp.__init__|F:\workspace\python\djangoTest\firstapp\__init__.py
+firstapp.models|F:\workspace\python\djangoTest\firstapp\models.py
+firstapp.tests|F:\workspace\python\djangoTest\firstapp\tests.py
+firstapp.views|F:\workspace\python\djangoTest\firstapp\views.py
+manage|F:\workspace\python\djangoTest\manage.py

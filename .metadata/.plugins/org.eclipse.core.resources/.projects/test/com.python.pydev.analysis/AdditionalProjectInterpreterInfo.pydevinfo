@@ -1,0 +1,89 @@
+-- VERSION_3
+-- START DISKCACHE
+F:\workspace\python\.metadata\.plugins\org.eclipse.core.resources\.projects\test\com.python.pydev.analysis\v1_indexcache
+.v1_indexcache
+demo.cpu|0|F:\workspace\python\test\demo\cpu.py
+demo.getpicture|0|F:\workspace\python\test\demo\getpicture.py
+demo.emailpython|0|F:\workspace\python\test\demo\emailpython.py
+demo.pythonexcel|0|F:\workspace\python\test\demo\pythonexcel.py
+demo.jingGame|0|F:\workspace\python\test\demo\jingGame.py
+demo.mysqltest|0|F:\workspace\python\test\demo\mysqltest.py
+demo.play|0|F:\workspace\python\test\demo\play.py
+demo.htmltest|0|F:\workspace\python\test\demo\htmltest.py
+demo.__init__|0|F:\workspace\python\test\demo\__init__.py
+demo.weather|0|F:\workspace\python\test\demo\weather.py
+demo.qiubai|0|F:\workspace\python\test\demo\qiubai.py
+demo.bras|0|F:\workspace\python\test\demo\bras.py
+demo.shortmessage|0|F:\workspace\python\test\demo\shortmessage.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+13=MyParser
+10=demo.getpicture
+2=demo.emailpython
+4=demo.mysqltest
+5=demo.htmltest
+9=demo.bras
+11=demo.qiubai
+6=demo.shortmessage
+7=demo.cpu
+1=demo.jingGame
+3=demo.pythonexcel
+14=MyParser.__init__
+8=demo.play
+12=demo.weather
+-- END DICTIONARY
+-- START TREE 1
+45
+X|1|X!11@
+Y|1|Y!11@
+acc|1|accp_mail!18@
+boo|1|book!27@
+c|1|c!35@
+cel|1|cell_value!27@
+che|1|check_done!10@
+col|1|col_data!27@
+con|2|content!43@conn!35@
+coo|1|cookie!51@
+cpu|1|cpu_num!59@
+d|1|d!67@
+dat|2|data!51@data!75@
+don|1|done!11@
+ext|1|extract_body!18@
+fil|2|filepath!43@filepath!83@
+for|1|for_qb!90@
+get|1|getCityWeather!98@
+hp|1|hp!43@
+if_|1|if_qb!90@
+l|1|l!67@
+li|1|li!67@
+map|1|map!11@
+met|1|method1!82@
+mov|1|moved!11@
+myp|1|MyParser!41@
+nco|1|ncols!27@
+nro|1|nrows!27@
+ope|1|opener!51@
+pat|2|path!27@path!67@
+pos|1|pos!11@
+pri|1|print_board!10@
+qiu|1|qiubai!90@
+r|2|r!51@r!67@
+req|1|req!75@
+res|3|response!51@result!67@response!75@
+row|1|row_data!27@
+sen|1|send_mail!18@
+she|2|sheet!27@sheetname!27@
+sta|1|start_directory!67@
+the|1|the_page!75@
+tur|1|turn!11@
+url|3|url!43@url!75@url!83@
+val|1|values!75@
+web|1|web!43@
+-- END TREE
+-- START TREE 2
+3
+__i|1|__init__!13&42@
+han|1|handle_starttag!13&42@
+ima|1|images!14&43@
+-- END TREE
